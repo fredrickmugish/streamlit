@@ -1,0 +1,1186 @@
+,AGE,GENDER,NATIONALITY,AFFECTED_ASPECT,STRATEGY
+0,29,m,kenyan,governance structure,transparent governance framework
+1,42,f,tanzanian,budget allocation,budget optimization
+2,35,f,tanzanian,social connection community engagement,community engagement initiative
+3,33,f,tanzanian,administrative function,workflow analysis
+4,35,m,tanzanian,student enrollment,enrollment initiative
+5,25,f,tanzanian,governance structure,transparent governance framework
+6,42,f,tanzanian,workforce planning analysis,workforce planning
+7,42,f,kenyan,running cost,financial auditing
+8,24,m,kenyan,governance structure,transparent governance framework
+9,30,m,kenyan,administrative function,workflow analysis
+10,58,f,kenyan,physical health safety,comprehensive health safety measure
+11,39,m,tanzanian,organizational culture change management,inclusive organizational culture
+12,29,f,kenyan,legal regulatory compliance,compliance management framework
+13,49,f,tanzanian,workforce planning analysis,workforce planning
+14,49,f,tanzanian,cyber crime,security measure
+15,57,f,tanzanian,legal regulatory compliance,compliance management framework
+16,57,m,kenyan,budget allocation,budget optimization
+17,29,m,tanzanian,student enrollment,enrollment initiative
+18,43,m,tanzanian,educational program curriculum,program curriculum review update
+19,53,m,tanzanian,cyber crime,security measure
+20,44,m,tanzanian,mission vision value,missiondriven policy alignment
+21,31,m,kenyan,facility safety,safety measure
+22,50,m,tanzanian,technology infrastructure,technology integration
+23,26,m,tanzanian,budget allocation,budget optimization
+24,40,m,tanzanian,mental health emotional wellbeing,mental health support service
+25,32,f,tanzanian,quality assurance,continuous improvement assessment
+26,52,m,tanzanian,budget allocation,budget optimization
+27,36,f,tanzanian,workforce planning analysis,workforce planning
+28,25,f,tanzanian,physical health safety,comprehensive health safety measure
+29,48,f,tanzanian,legal regulatory compliance,compliance management framework
+30,40,f,kenyan,learning environment,blended learning
+31,26,f,tanzanian,employee development training,professional development plan
+32,31,f,tanzanian,workforce planning analysis,workforce planning
+33,37,f,tanzanian,governance structure,transparent governance framework
+34,30,m,kenyan,administrative function,workflow analysis
+35,28,f,tanzanian,workforce planning analysis,workforce planning
+36,38,f,tanzanian,tuition fee setting,financial planning
+37,49,m,tanzanian,student accommodation,accommodation optimization
+38,24,f,tanzanian,organizational culture change management,inclusive organizational culture
+39,55,m,tanzanian,workforce planning analysis,workforce planning
+40,37,m,kenyan,research experiment,research experiment standardization
+41,44,m,tanzanian,budget allocation,budget optimization
+42,46,f,kenyan,cyber crime,security measure
+43,56,f,tanzanian,mental health emotional wellbeing,mental health support service
+44,50,f,tanzanian,facility safety,safety measure
+45,27,f,tanzanian,legal regulatory compliance,compliance management framework
+46,52,f,kenyan,access resource,digitization
+47,47,f,kenyan,employee development training,professional development plan
+48,29,m,tanzanian,debt,cash flow analysis
+49,52,m,tanzanian,student accommodation,accommodation optimization
+50,40,m,tanzanian,administrative function,workflow analysis
+51,26,f,tanzanian,student accommodation,accommodation optimization
+52,47,f,kenyan,running cost,financial auditing
+53,49,f,tanzanian,mental health emotional wellbeing,mental health support service
+54,45,m,kenyan,debt,cash flow analysis
+55,48,f,kenyan,budget allocation,budget optimization
+56,31,m,kenyan,quality assurance,continuous improvement assessment
+57,40,m,tanzanian,facility safety,safety measure
+58,58,m,tanzanian,tuition fee setting,financial planning
+59,38,f,tanzanian,recruitment,strategic recruitment
+60,58,m,tanzanian,organizational culture change management,inclusive organizational culture
+61,24,m,tanzanian,student enrollment,enrollment initiative
+62,29,m,tanzanian,debt,cash flow analysis
+63,33,m,kenyan,recruitment,strategic recruitment
+64,24,f,tanzanian,social connection community engagement,community engagement initiative
+65,39,f,kenyan,legal regulatory compliance,compliance management framework
+66,56,f,tanzanian,learning environment,blended learning
+67,51,m,tanzanian,mission vision value,missiondriven policy alignment
+68,33,m,kenyan,research experiment,research experiment standardization
+69,41,m,tanzanian,recruitment,strategic recruitment
+70,27,m,kenyan,student enrollment,enrollment initiative
+71,27,f,kenyan,technology infrastructure,technology integration
+72,24,m,kenyan,technology infrastructure,technology integration
+73,46,f,tanzanian,governance structure,transparent governance framework
+74,26,m,kenyan,mission vision value,missiondriven policy alignment
+75,50,f,tanzanian,student enrollment,enrollment initiative
+76,29,f,tanzanian,budget allocation,budget optimization
+77,47,f,tanzanian,legal regulatory compliance,compliance management framework
+78,49,m,tanzanian,tuition fee setting,financial planning
+79,28,m,tanzanian,workforce planning analysis,workforce planning
+80,39,f,kenyan,administrative function,workflow analysis
+81,42,m,kenyan,legal regulatory compliance,compliance management framework
+82,27,f,kenyan,tuition fee setting,financial planning
+83,34,f,kenyan,mission vision value,missiondriven policy alignment
+84,24,f,tanzanian,quality assurance,continuous improvement assessment
+85,42,f,kenyan,student enrollment,enrollment initiative
+86,45,f,tanzanian,organizational culture change management,inclusive organizational culture
+87,59,m,tanzanian,workforce planning analysis,workforce planning
+88,33,m,tanzanian,administrative function,workflow analysis
+89,24,f,kenyan,physical health safety,comprehensive health safety measure
+90,38,m,tanzanian,workforce planning analysis,workforce planning
+91,35,m,kenyan,quality assurance,continuous improvement assessment
+92,45,f,tanzanian,learning environment,blended learning
+93,48,f,tanzanian,governance structure,transparent governance framework
+94,38,m,tanzanian,access resource,digitization
+95,42,f,kenyan,student enrollment,enrollment initiative
+96,59,f,kenyan,debt,cash flow analysis
+97,59,f,kenyan,legal regulatory compliance,compliance management framework
+98,33,f,tanzanian,legal regulatory compliance,compliance management framework
+99,44,f,kenyan,technology infrastructure,technology integration
+100,44,f,tanzanian,student enrollment,enrollment initiative
+101,28,m,tanzanian,cyber crime,security measure
+102,40,m,kenyan,social connection community engagement,community engagement initiative
+103,53,f,tanzanian,student accommodation,accommodation optimization
+104,55,m,tanzanian,educational program curriculum,program curriculum review update
+105,45,m,tanzanian,social connection community engagement,community engagement initiative
+106,52,f,kenyan,governance structure,transparent governance framework
+107,25,f,kenyan,tuition fee setting,financial planning
+108,32,m,kenyan,facility safety,safety measure
+109,51,m,tanzanian,legal regulatory compliance,compliance management framework
+110,58,f,tanzanian,cyber crime,security measure
+111,31,f,tanzanian,tuition fee setting,financial planning
+112,56,f,tanzanian,physical health safety,comprehensive health safety measure
+113,48,f,kenyan,running cost,financial auditing
+114,52,m,kenyan,student accommodation,accommodation optimization
+115,54,m,tanzanian,budget allocation,budget optimization
+116,24,f,tanzanian,workforce planning analysis,workforce planning
+117,41,m,kenyan,tuition fee setting,financial planning
+118,33,f,kenyan,technology infrastructure,technology integration
+119,41,m,tanzanian,workforce planning analysis,workforce planning
+120,40,m,tanzanian,debt,cash flow analysis
+121,48,f,tanzanian,research experiment,research experiment standardization
+122,47,f,tanzanian,technology infrastructure,technology integration
+123,34,f,tanzanian,workforce planning analysis,workforce planning
+124,48,m,tanzanian,tuition fee setting,financial planning
+125,49,m,kenyan,technology infrastructure,technology integration
+126,52,f,kenyan,mission vision value,missiondriven policy alignment
+127,39,m,kenyan,governance structure,transparent governance framework
+128,46,f,tanzanian,educational program curriculum,program curriculum review update
+129,46,f,tanzanian,budget allocation,budget optimization
+130,41,m,tanzanian,organizational culture change management,inclusive organizational culture
+131,47,f,kenyan,educational program curriculum,program curriculum review update
+132,55,f,tanzanian,legal regulatory compliance,compliance management framework
+133,24,m,tanzanian,learning environment,blended learning
+134,28,m,tanzanian,facility safety,safety measure
+135,34,f,tanzanian,running cost,financial auditing
+136,39,m,tanzanian,research experiment,research experiment standardization
+137,26,f,kenyan,cyber crime,security measure
+138,28,f,tanzanian,educational program curriculum,program curriculum review update
+139,36,m,kenyan,access resource,digitization
+140,48,f,tanzanian,learning environment,blended learning
+141,48,m,kenyan,student accommodation,accommodation optimization
+142,34,m,kenyan,legal regulatory compliance,compliance management framework
+143,35,m,tanzanian,quality assurance,continuous improvement assessment
+144,30,m,tanzanian,mission vision value,missiondriven policy alignment
+145,26,f,tanzanian,mental health emotional wellbeing,mental health support service
+146,58,f,kenyan,access resource,digitization
+147,45,m,kenyan,student accommodation,accommodation optimization
+148,37,f,kenyan,facility safety,safety measure
+149,47,f,tanzanian,quality assurance,continuous improvement assessment
+150,32,m,tanzanian,legal regulatory compliance,compliance management framework
+151,47,f,kenyan,recruitment,strategic recruitment
+152,44,f,kenyan,student accommodation,accommodation optimization
+153,44,m,tanzanian,debt,cash flow analysis
+154,34,m,tanzanian,cyber crime,security measure
+155,42,f,kenyan,access resource,digitization
+156,52,f,tanzanian,learning environment,blended learning
+157,57,m,kenyan,student enrollment,enrollment initiative
+158,50,f,tanzanian,mental health emotional wellbeing,mental health support service
+159,38,f,kenyan,debt,cash flow analysis
+160,32,f,tanzanian,administrative function,workflow analysis
+161,51,f,kenyan,administrative function,workflow analysis
+162,43,f,kenyan,administrative function,workflow analysis
+163,27,m,kenyan,educational program curriculum,program curriculum review update
+164,59,m,tanzanian,budget allocation,budget optimization
+165,28,m,tanzanian,tuition fee setting,financial planning
+166,56,f,tanzanian,workforce planning analysis,workforce planning
+167,41,f,kenyan,running cost,financial auditing
+168,25,m,kenyan,organizational culture change management,inclusive organizational culture
+169,47,m,tanzanian,organizational culture change management,inclusive organizational culture
+170,25,f,kenyan,budget allocation,budget optimization
+171,56,m,tanzanian,mission vision value,missiondriven policy alignment
+172,27,m,kenyan,mission vision value,missiondriven policy alignment
+173,53,f,tanzanian,budget allocation,budget optimization
+174,44,f,kenyan,administrative function,workflow analysis
+175,51,f,tanzanian,learning environment,blended learning
+176,39,m,tanzanian,mission vision value,missiondriven policy alignment
+177,33,f,tanzanian,student accommodation,accommodation optimization
+178,44,m,tanzanian,tuition fee setting,financial planning
+179,29,f,tanzanian,facility safety,safety measure
+180,43,f,kenyan,legal regulatory compliance,compliance management framework
+181,30,f,tanzanian,social connection community engagement,community engagement initiative
+182,57,f,tanzanian,access resource,digitization
+183,42,f,kenyan,facility safety,safety measure
+184,58,f,tanzanian,organizational culture change management,inclusive organizational culture
+185,31,f,tanzanian,tuition fee setting,financial planning
+186,42,m,kenyan,educational program curriculum,program curriculum review update
+187,25,m,kenyan,recruitment,strategic recruitment
+188,42,m,kenyan,recruitment,strategic recruitment
+189,34,f,tanzanian,employee development training,professional development plan
+190,49,f,tanzanian,workforce planning analysis,workforce planning
+191,43,m,kenyan,employee development training,professional development plan
+192,34,f,kenyan,mission vision value,missiondriven policy alignment
+193,59,f,tanzanian,student accommodation,accommodation optimization
+194,43,f,tanzanian,employee development training,professional development plan
+195,34,m,kenyan,social connection community engagement,community engagement initiative
+196,41,f,tanzanian,facility safety,safety measure
+197,41,f,kenyan,quality assurance,continuous improvement assessment
+198,42,f,tanzanian,student accommodation,accommodation optimization
+199,52,f,tanzanian,workforce planning analysis,workforce planning
+200,31,m,kenyan,governance structure,transparent governance framework
+201,45,f,tanzanian,social connection community engagement,community engagement initiative
+202,48,f,tanzanian,technology infrastructure,technology integration
+203,47,f,tanzanian,recruitment,strategic recruitment
+204,48,m,tanzanian,governance structure,transparent governance framework
+205,34,m,tanzanian,mission vision value,missiondriven policy alignment
+206,56,f,tanzanian,mental health emotional wellbeing,mental health support service
+207,46,f,tanzanian,research experiment,research experiment standardization
+208,55,m,tanzanian,recruitment,strategic recruitment
+209,25,m,tanzanian,workforce planning analysis,workforce planning
+210,51,m,tanzanian,workforce planning analysis,workforce planning
+211,53,f,tanzanian,recruitment,strategic recruitment
+212,45,m,tanzanian,research experiment,research experiment standardization
+213,53,m,tanzanian,workforce planning analysis,workforce planning
+214,49,f,tanzanian,learning environment,blended learning
+215,41,f,kenyan,student accommodation,accommodation optimization
+216,41,m,tanzanian,governance structure,transparent governance framework
+217,27,f,tanzanian,student enrollment,enrollment initiative
+218,25,f,tanzanian,organizational culture change management,inclusive organizational culture
+219,38,f,tanzanian,cyber crime,security measure
+220,33,f,tanzanian,legal regulatory compliance,compliance management framework
+221,58,f,kenyan,administrative function,workflow analysis
+222,42,f,tanzanian,running cost,financial auditing
+223,48,f,kenyan,student enrollment,enrollment initiative
+224,48,f,kenyan,running cost,financial auditing
+225,56,f,kenyan,quality assurance,continuous improvement assessment
+226,24,m,tanzanian,student enrollment,enrollment initiative
+227,49,m,kenyan,debt,cash flow analysis
+228,54,m,kenyan,cyber crime,security measure
+229,38,m,tanzanian,employee development training,professional development plan
+230,59,f,tanzanian,running cost,financial auditing
+231,34,m,tanzanian,mental health emotional wellbeing,mental health support service
+232,48,m,tanzanian,technology infrastructure,technology integration
+233,59,f,kenyan,learning environment,blended learning
+234,47,m,kenyan,legal regulatory compliance,compliance management framework
+235,42,m,tanzanian,facility safety,safety measure
+236,49,m,tanzanian,debt,cash flow analysis
+237,25,f,tanzanian,workforce planning analysis,workforce planning
+238,28,f,tanzanian,administrative function,workflow analysis
+239,50,m,kenyan,physical health safety,comprehensive health safety measure
+240,33,m,kenyan,student accommodation,accommodation optimization
+241,24,f,tanzanian,mission vision value,missiondriven policy alignment
+242,33,f,tanzanian,organizational culture change management,inclusive organizational culture
+243,49,m,kenyan,technology infrastructure,technology integration
+244,44,m,tanzanian,access resource,digitization
+245,39,f,tanzanian,mental health emotional wellbeing,mental health support service
+246,58,m,kenyan,governance structure,transparent governance framework
+247,44,m,kenyan,organizational culture change management,inclusive organizational culture
+248,43,f,tanzanian,administrative function,workflow analysis
+249,47,f,tanzanian,educational program curriculum,program curriculum review update
+250,44,f,tanzanian,learning environment,blended learning
+251,53,f,kenyan,budget allocation,budget optimization
+252,45,f,tanzanian,quality assurance,continuous improvement assessment
+253,32,f,kenyan,mission vision value,missiondriven policy alignment
+254,41,m,tanzanian,physical health safety,comprehensive health safety measure
+255,27,f,tanzanian,student accommodation,accommodation optimization
+256,59,f,tanzanian,cyber crime,security measure
+257,47,f,kenyan,student enrollment,enrollment initiative
+258,25,m,tanzanian,research experiment,research experiment standardization
+259,46,m,kenyan,facility safety,safety measure
+260,51,m,tanzanian,quality assurance,continuous improvement assessment
+261,33,f,tanzanian,running cost,financial auditing
+262,30,m,kenyan,quality assurance,continuous improvement assessment
+263,52,m,kenyan,budget allocation,budget optimization
+264,42,f,tanzanian,running cost,financial auditing
+265,26,m,tanzanian,budget allocation,budget optimization
+266,40,m,kenyan,organizational culture change management,inclusive organizational culture
+267,30,m,tanzanian,facility safety,safety measure
+268,54,f,tanzanian,administrative function,workflow analysis
+269,37,f,tanzanian,student enrollment,enrollment initiative
+270,30,m,tanzanian,mission vision value,missiondriven policy alignment
+271,27,m,kenyan,debt,cash flow analysis
+272,46,f,tanzanian,mental health emotional wellbeing,mental health support service
+273,48,f,tanzanian,budget allocation,budget optimization
+274,34,f,tanzanian,research experiment,research experiment standardization
+275,34,f,tanzanian,research experiment,research experiment standardization
+276,33,m,kenyan,social connection community engagement,community engagement initiative
+277,33,m,tanzanian,learning environment,blended learning
+278,41,f,kenyan,student enrollment,enrollment initiative
+279,33,m,tanzanian,quality assurance,continuous improvement assessment
+280,58,f,tanzanian,administrative function,workflow analysis
+281,36,f,kenyan,budget allocation,budget optimization
+282,49,f,kenyan,research experiment,research experiment standardization
+283,36,f,kenyan,debt,cash flow analysis
+284,26,m,kenyan,administrative function,workflow analysis
+285,50,m,kenyan,employee development training,professional development plan
+286,41,f,tanzanian,student accommodation,accommodation optimization
+287,59,f,tanzanian,running cost,financial auditing
+288,37,m,tanzanian,administrative function,workflow analysis
+289,52,f,tanzanian,recruitment,strategic recruitment
+290,52,m,kenyan,employee development training,professional development plan
+291,56,m,kenyan,workforce planning analysis,workforce planning
+292,45,m,tanzanian,facility safety,safety measure
+293,33,m,tanzanian,educational program curriculum,program curriculum review update
+294,57,m,kenyan,social connection community engagement,community engagement initiative
+295,56,m,tanzanian,debt,cash flow analysis
+296,27,m,tanzanian,legal regulatory compliance,compliance management framework
+297,45,m,tanzanian,research experiment,research experiment standardization
+298,53,f,kenyan,tuition fee setting,financial planning
+299,56,f,tanzanian,technology infrastructure,technology integration
+300,58,m,tanzanian,student enrollment,enrollment initiative
+301,47,m,kenyan,legal regulatory compliance,compliance management framework
+302,31,m,kenyan,quality assurance,continuous improvement assessment
+303,47,m,kenyan,legal regulatory compliance,compliance management framework
+304,42,m,tanzanian,educational program curriculum,program curriculum review update
+305,54,f,tanzanian,educational program curriculum,program curriculum review update
+306,57,m,tanzanian,cyber crime,security measure
+307,55,f,kenyan,physical health safety,comprehensive health safety measure
+308,39,f,tanzanian,administrative function,workflow analysis
+309,58,f,tanzanian,physical health safety,comprehensive health safety measure
+310,46,m,kenyan,student accommodation,accommodation optimization
+311,25,f,kenyan,workforce planning analysis,workforce planning
+312,28,f,kenyan,access resource,digitization
+313,36,m,tanzanian,learning environment,blended learning
+314,33,f,tanzanian,recruitment,strategic recruitment
+315,25,f,tanzanian,learning environment,blended learning
+316,44,m,kenyan,mission vision value,missiondriven policy alignment
+317,44,m,kenyan,quality assurance,continuous improvement assessment
+318,27,f,tanzanian,access resource,digitization
+319,30,f,kenyan,legal regulatory compliance,compliance management framework
+320,30,m,tanzanian,cyber crime,security measure
+321,39,m,tanzanian,administrative function,workflow analysis
+322,24,m,kenyan,quality assurance,continuous improvement assessment
+323,56,f,tanzanian,debt,cash flow analysis
+324,47,m,kenyan,student enrollment,enrollment initiative
+325,33,m,tanzanian,access resource,digitization
+326,29,f,tanzanian,recruitment,strategic recruitment
+327,54,m,tanzanian,physical health safety,comprehensive health safety measure
+328,40,f,kenyan,employee development training,professional development plan
+329,24,f,tanzanian,tuition fee setting,financial planning
+330,31,m,kenyan,legal regulatory compliance,compliance management framework
+331,54,m,tanzanian,educational program curriculum,program curriculum review update
+332,45,m,kenyan,research experiment,research experiment standardization
+333,25,f,kenyan,legal regulatory compliance,compliance management framework
+334,33,m,tanzanian,quality assurance,continuous improvement assessment
+335,34,f,tanzanian,research experiment,research experiment standardization
+336,53,m,tanzanian,running cost,financial auditing
+337,24,f,tanzanian,cyber crime,security measure
+338,30,m,kenyan,governance structure,transparent governance framework
+339,56,m,kenyan,governance structure,transparent governance framework
+340,57,m,tanzanian,tuition fee setting,financial planning
+341,25,m,tanzanian,physical health safety,comprehensive health safety measure
+342,41,m,tanzanian,facility safety,safety measure
+343,26,f,tanzanian,recruitment,strategic recruitment
+344,25,f,kenyan,budget allocation,budget optimization
+345,43,f,tanzanian,student accommodation,accommodation optimization
+346,42,m,kenyan,organizational culture change management,inclusive organizational culture
+347,52,m,tanzanian,tuition fee setting,financial planning
+348,59,m,kenyan,workforce planning analysis,workforce planning
+349,44,f,kenyan,physical health safety,comprehensive health safety measure
+350,59,m,tanzanian,debt,cash flow analysis
+351,59,f,tanzanian,physical health safety,comprehensive health safety measure
+352,26,f,tanzanian,budget allocation,budget optimization
+353,54,f,kenyan,running cost,financial auditing
+354,38,f,kenyan,quality assurance,continuous improvement assessment
+355,32,m,kenyan,running cost,financial auditing
+356,57,m,tanzanian,debt,cash flow analysis
+357,55,f,kenyan,research experiment,research experiment standardization
+358,53,f,tanzanian,debt,cash flow analysis
+359,25,f,tanzanian,student accommodation,accommodation optimization
+360,25,f,tanzanian,legal regulatory compliance,compliance management framework
+361,54,f,tanzanian,learning environment,blended learning
+362,55,f,tanzanian,budget allocation,budget optimization
+363,44,m,kenyan,debt,cash flow analysis
+364,44,f,tanzanian,research experiment,research experiment standardization
+365,46,m,tanzanian,legal regulatory compliance,compliance management framework
+366,34,m,tanzanian,governance structure,transparent governance framework
+367,35,f,tanzanian,governance structure,transparent governance framework
+368,37,m,kenyan,employee development training,professional development plan
+369,37,f,tanzanian,mental health emotional wellbeing,mental health support service
+370,27,m,kenyan,mission vision value,missiondriven policy alignment
+371,47,f,tanzanian,mental health emotional wellbeing,mental health support service
+372,38,f,tanzanian,student accommodation,accommodation optimization
+373,42,m,kenyan,administrative function,workflow analysis
+374,37,m,tanzanian,learning environment,blended learning
+375,43,m,tanzanian,technology infrastructure,technology integration
+376,57,m,tanzanian,legal regulatory compliance,compliance management framework
+377,54,f,tanzanian,learning environment,blended learning
+378,40,f,tanzanian,physical health safety,comprehensive health safety measure
+379,56,f,kenyan,legal regulatory compliance,compliance management framework
+380,27,m,kenyan,student enrollment,enrollment initiative
+381,27,f,kenyan,mission vision value,missiondriven policy alignment
+382,56,m,tanzanian,mental health emotional wellbeing,mental health support service
+383,55,m,tanzanian,budget allocation,budget optimization
+384,30,m,kenyan,organizational culture change management,inclusive organizational culture
+385,25,f,kenyan,technology infrastructure,technology integration
+386,45,m,kenyan,educational program curriculum,program curriculum review update
+387,31,m,kenyan,employee development training,professional development plan
+388,31,f,tanzanian,organizational culture change management,inclusive organizational culture
+389,34,f,kenyan,budget allocation,budget optimization
+390,41,f,tanzanian,administrative function,workflow analysis
+391,55,m,tanzanian,access resource,digitization
+392,49,f,tanzanian,governance structure,transparent governance framework
+393,38,f,kenyan,facility safety,safety measure
+394,49,m,kenyan,student accommodation,accommodation optimization
+395,27,f,kenyan,administrative function,workflow analysis
+396,35,m,tanzanian,governance structure,transparent governance framework
+397,44,m,tanzanian,educational program curriculum,program curriculum review update
+398,37,m,kenyan,mission vision value,missiondriven policy alignment
+399,32,f,tanzanian,organizational culture change management,inclusive organizational culture
+400,34,f,tanzanian,educational program curriculum,program curriculum review update
+401,35,f,kenyan,running cost,financial auditing
+402,45,f,tanzanian,learning environment,blended learning
+403,41,m,kenyan,governance structure,transparent governance framework
+404,49,f,tanzanian,cyber crime,security measure
+405,40,f,tanzanian,tuition fee setting,financial planning
+406,47,f,tanzanian,administrative function,workflow analysis
+407,39,m,tanzanian,student accommodation,accommodation optimization
+408,27,m,tanzanian,facility safety,safety measure
+409,44,m,tanzanian,cyber crime,security measure
+410,54,m,kenyan,organizational culture change management,inclusive organizational culture
+411,41,f,tanzanian,budget allocation,budget optimization
+412,30,f,tanzanian,mission vision value,missiondriven policy alignment
+413,33,f,tanzanian,social connection community engagement,community engagement initiative
+414,51,m,kenyan,debt,cash flow analysis
+415,55,m,kenyan,educational program curriculum,program curriculum review update
+416,52,f,tanzanian,running cost,financial auditing
+417,49,f,tanzanian,budget allocation,budget optimization
+418,30,f,kenyan,workforce planning analysis,workforce planning
+419,40,m,kenyan,student accommodation,accommodation optimization
+420,56,m,kenyan,student enrollment,enrollment initiative
+421,47,m,kenyan,research experiment,research experiment standardization
+422,36,f,kenyan,educational program curriculum,program curriculum review update
+423,36,f,tanzanian,research experiment,research experiment standardization
+424,52,f,tanzanian,student accommodation,accommodation optimization
+425,51,m,tanzanian,administrative function,workflow analysis
+426,55,m,tanzanian,organizational culture change management,inclusive organizational culture
+427,53,f,tanzanian,access resource,digitization
+428,24,f,tanzanian,debt,cash flow analysis
+429,54,m,tanzanian,organizational culture change management,inclusive organizational culture
+430,31,m,tanzanian,legal regulatory compliance,compliance management framework
+431,53,m,tanzanian,facility safety,safety measure
+432,42,m,kenyan,access resource,digitization
+433,42,f,tanzanian,research experiment,research experiment standardization
+434,32,m,tanzanian,legal regulatory compliance,compliance management framework
+435,46,m,tanzanian,governance structure,transparent governance framework
+436,50,f,kenyan,organizational culture change management,inclusive organizational culture
+437,24,m,kenyan,physical health safety,comprehensive health safety measure
+438,40,m,tanzanian,governance structure,transparent governance framework
+439,26,m,tanzanian,student accommodation,accommodation optimization
+440,57,m,tanzanian,mission vision value,missiondriven policy alignment
+441,40,m,tanzanian,access resource,digitization
+442,39,f,tanzanian,workforce planning analysis,workforce planning
+443,52,m,tanzanian,mission vision value,missiondriven policy alignment
+444,43,m,tanzanian,educational program curriculum,program curriculum review update
+445,27,f,tanzanian,student accommodation,accommodation optimization
+446,25,m,tanzanian,mental health emotional wellbeing,mental health support service
+447,40,m,kenyan,quality assurance,continuous improvement assessment
+448,48,m,kenyan,mission vision value,missiondriven policy alignment
+449,51,m,tanzanian,organizational culture change management,inclusive organizational culture
+450,53,f,kenyan,debt,cash flow analysis
+451,35,f,tanzanian,running cost,financial auditing
+452,36,m,tanzanian,cyber crime,security measure
+453,32,m,tanzanian,student accommodation,accommodation optimization
+454,32,m,kenyan,access resource,digitization
+455,55,m,tanzanian,mission vision value,missiondriven policy alignment
+456,50,f,kenyan,mission vision value,missiondriven policy alignment
+457,48,m,tanzanian,access resource,digitization
+458,28,m,tanzanian,research experiment,research experiment standardization
+459,43,m,tanzanian,research experiment,research experiment standardization
+460,34,m,tanzanian,mission vision value,missiondriven policy alignment
+461,41,m,kenyan,administrative function,workflow analysis
+462,49,f,kenyan,social connection community engagement,community engagement initiative
+463,41,m,tanzanian,student accommodation,accommodation optimization
+464,25,m,kenyan,tuition fee setting,financial planning
+465,36,f,kenyan,budget allocation,budget optimization
+466,54,f,tanzanian,running cost,financial auditing
+467,40,f,tanzanian,legal regulatory compliance,compliance management framework
+468,25,m,tanzanian,organizational culture change management,inclusive organizational culture
+469,42,f,tanzanian,quality assurance,continuous improvement assessment
+470,49,m,tanzanian,learning environment,blended learning
+471,37,m,tanzanian,running cost,financial auditing
+472,39,m,tanzanian,running cost,financial auditing
+473,57,m,kenyan,research experiment,research experiment standardization
+474,54,m,tanzanian,technology infrastructure,technology integration
+475,31,m,kenyan,technology infrastructure,technology integration
+476,30,m,kenyan,workforce planning analysis,workforce planning
+477,31,f,tanzanian,student enrollment,enrollment initiative
+478,50,f,kenyan,technology infrastructure,technology integration
+479,42,m,kenyan,facility safety,safety measure
+480,38,f,kenyan,educational program curriculum,program curriculum review update
+481,31,f,tanzanian,employee development training,professional development plan
+482,55,m,kenyan,access resource,digitization
+483,24,f,tanzanian,governance structure,transparent governance framework
+484,30,f,tanzanian,tuition fee setting,financial planning
+485,58,f,tanzanian,social connection community engagement,community engagement initiative
+486,41,m,tanzanian,administrative function,workflow analysis
+487,28,f,kenyan,student accommodation,accommodation optimization
+488,43,m,kenyan,educational program curriculum,program curriculum review update
+489,27,f,tanzanian,social connection community engagement,community engagement initiative
+490,58,m,tanzanian,research experiment,research experiment standardization
+491,28,m,tanzanian,organizational culture change management,inclusive organizational culture
+492,30,m,kenyan,workforce planning analysis,workforce planning
+493,43,m,kenyan,cyber crime,security measure
+494,45,m,tanzanian,mental health emotional wellbeing,mental health support service
+495,34,m,tanzanian,employee development training,professional development plan
+496,57,m,tanzanian,governance structure,transparent governance framework
+497,31,m,tanzanian,governance structure,transparent governance framework
+498,42,f,tanzanian,learning environment,blended learning
+499,50,f,kenyan,facility safety,safety measure
+500,33,m,tanzanian,running cost,financial auditing
+501,29,m,tanzanian,mental health emotional wellbeing,mental health support service
+502,31,m,tanzanian,mental health emotional wellbeing,mental health support service
+503,47,m,tanzanian,mental health emotional wellbeing,mental health support service
+504,32,f,tanzanian,learning environment,blended learning
+505,35,m,tanzanian,quality assurance,continuous improvement assessment
+506,30,m,tanzanian,mission vision value,missiondriven policy alignment
+507,44,f,kenyan,mental health emotional wellbeing,mental health support service
+508,52,m,tanzanian,recruitment,strategic recruitment
+509,24,m,tanzanian,workforce planning analysis,workforce planning
+510,39,m,tanzanian,tuition fee setting,financial planning
+511,58,m,tanzanian,mission vision value,missiondriven policy alignment
+512,41,f,kenyan,tuition fee setting,financial planning
+513,29,f,tanzanian,student enrollment,enrollment initiative
+514,57,m,tanzanian,student accommodation,accommodation optimization
+515,40,m,tanzanian,workforce planning analysis,workforce planning
+516,45,f,kenyan,educational program curriculum,program curriculum review update
+517,54,m,tanzanian,facility safety,safety measure
+518,55,m,kenyan,budget allocation,budget optimization
+519,57,f,kenyan,recruitment,strategic recruitment
+520,47,m,kenyan,running cost,financial auditing
+521,42,m,tanzanian,access resource,digitization
+522,50,m,tanzanian,research experiment,research experiment standardization
+523,52,f,tanzanian,facility safety,safety measure
+524,53,f,tanzanian,workforce planning analysis,workforce planning
+525,27,m,kenyan,access resource,digitization
+526,35,f,kenyan,student accommodation,accommodation optimization
+527,46,m,tanzanian,quality assurance,continuous improvement assessment
+528,40,m,tanzanian,administrative function,workflow analysis
+529,33,f,tanzanian,social connection community engagement,community engagement initiative
+530,47,f,tanzanian,quality assurance,continuous improvement assessment
+531,51,f,tanzanian,administrative function,workflow analysis
+532,55,m,tanzanian,student accommodation,accommodation optimization
+533,53,m,kenyan,organizational culture change management,inclusive organizational culture
+534,34,m,tanzanian,student enrollment,enrollment initiative
+535,58,f,tanzanian,governance structure,transparent governance framework
+536,49,f,tanzanian,physical health safety,comprehensive health safety measure
+537,46,m,tanzanian,educational program curriculum,program curriculum review update
+538,52,f,tanzanian,running cost,financial auditing
+539,27,m,tanzanian,facility safety,safety measure
+540,25,f,kenyan,learning environment,blended learning
+541,39,m,tanzanian,mission vision value,missiondriven policy alignment
+542,44,f,kenyan,cyber crime,security measure
+543,45,m,tanzanian,mission vision value,missiondriven policy alignment
+544,45,m,kenyan,technology infrastructure,technology integration
+545,46,m,kenyan,recruitment,strategic recruitment
+546,51,m,kenyan,facility safety,safety measure
+547,31,m,kenyan,learning environment,blended learning
+548,58,f,tanzanian,access resource,digitization
+549,37,m,tanzanian,mission vision value,missiondriven policy alignment
+550,28,m,tanzanian,debt,cash flow analysis
+551,39,f,tanzanian,mental health emotional wellbeing,mental health support service
+552,50,m,tanzanian,organizational culture change management,inclusive organizational culture
+553,47,f,kenyan,student enrollment,enrollment initiative
+554,53,f,kenyan,physical health safety,comprehensive health safety measure
+555,43,m,kenyan,access resource,digitization
+556,49,f,kenyan,mental health emotional wellbeing,mental health support service
+557,42,m,kenyan,legal regulatory compliance,compliance management framework
+558,39,f,tanzanian,workforce planning analysis,workforce planning
+559,36,f,tanzanian,learning environment,blended learning
+560,41,f,kenyan,recruitment,strategic recruitment
+561,57,f,tanzanian,learning environment,blended learning
+562,29,m,kenyan,employee development training,professional development plan
+563,56,f,tanzanian,mission vision value,missiondriven policy alignment
+564,29,f,kenyan,debt,cash flow analysis
+565,35,f,tanzanian,facility safety,safety measure
+566,47,m,tanzanian,governance structure,transparent governance framework
+567,53,m,kenyan,organizational culture change management,inclusive organizational culture
+568,45,f,tanzanian,technology infrastructure,technology integration
+569,58,m,tanzanian,legal regulatory compliance,compliance management framework
+570,37,f,tanzanian,facility safety,safety measure
+571,50,f,tanzanian,recruitment,strategic recruitment
+572,37,m,tanzanian,facility safety,safety measure
+573,43,m,kenyan,debt,cash flow analysis
+574,29,m,tanzanian,technology infrastructure,technology integration
+575,33,f,tanzanian,mental health emotional wellbeing,mental health support service
+576,38,f,tanzanian,cyber crime,security measure
+577,49,m,tanzanian,tuition fee setting,financial planning
+578,24,f,kenyan,debt,cash flow analysis
+579,50,f,tanzanian,educational program curriculum,program curriculum review update
+580,58,f,tanzanian,employee development training,professional development plan
+581,45,f,tanzanian,access resource,digitization
+582,26,f,kenyan,budget allocation,budget optimization
+583,53,f,kenyan,organizational culture change management,inclusive organizational culture
+584,58,m,tanzanian,educational program curriculum,program curriculum review update
+585,44,f,tanzanian,employee development training,professional development plan
+586,40,f,tanzanian,mental health emotional wellbeing,mental health support service
+587,54,f,tanzanian,debt,cash flow analysis
+588,30,m,kenyan,social connection community engagement,community engagement initiative
+589,59,m,tanzanian,organizational culture change management,inclusive organizational culture
+590,48,m,kenyan,tuition fee setting,financial planning
+591,29,f,tanzanian,research experiment,research experiment standardization
+592,36,m,kenyan,recruitment,strategic recruitment
+593,36,f,tanzanian,governance structure,transparent governance framework
+594,26,f,kenyan,cyber crime,security measure
+595,55,f,kenyan,cyber crime,security measure
+596,25,m,kenyan,recruitment,strategic recruitment
+597,38,m,tanzanian,recruitment,strategic recruitment
+598,27,f,kenyan,student accommodation,accommodation optimization
+599,58,m,kenyan,recruitment,strategic recruitment
+600,57,f,kenyan,governance structure,transparent governance framework
+601,51,m,tanzanian,social connection community engagement,community engagement initiative
+602,31,m,tanzanian,debt,cash flow analysis
+603,55,f,kenyan,legal regulatory compliance,compliance management framework
+604,26,m,tanzanian,administrative function,workflow analysis
+605,50,f,kenyan,mental health emotional wellbeing,mental health support service
+606,43,m,kenyan,debt,cash flow analysis
+607,40,m,tanzanian,student enrollment,enrollment initiative
+608,42,f,kenyan,quality assurance,continuous improvement assessment
+609,52,m,kenyan,quality assurance,continuous improvement assessment
+610,46,m,kenyan,recruitment,strategic recruitment
+611,57,m,kenyan,student enrollment,enrollment initiative
+612,31,f,tanzanian,organizational culture change management,inclusive organizational culture
+613,43,m,kenyan,cyber crime,security measure
+614,49,f,tanzanian,running cost,financial auditing
+615,39,f,tanzanian,research experiment,research experiment standardization
+616,40,f,tanzanian,employee development training,professional development plan
+617,33,f,tanzanian,technology infrastructure,technology integration
+618,38,f,tanzanian,social connection community engagement,community engagement initiative
+619,33,m,tanzanian,social connection community engagement,community engagement initiative
+620,47,m,tanzanian,mission vision value,missiondriven policy alignment
+621,56,m,kenyan,administrative function,workflow analysis
+622,59,f,tanzanian,educational program curriculum,program curriculum review update
+623,35,m,kenyan,administrative function,workflow analysis
+624,49,f,tanzanian,quality assurance,continuous improvement assessment
+625,52,m,tanzanian,administrative function,workflow analysis
+626,51,m,tanzanian,recruitment,strategic recruitment
+627,56,f,tanzanian,research experiment,research experiment standardization
+628,30,f,tanzanian,student enrollment,enrollment initiative
+629,25,f,kenyan,budget allocation,budget optimization
+630,50,m,tanzanian,physical health safety,comprehensive health safety measure
+631,43,m,tanzanian,access resource,digitization
+632,35,f,kenyan,debt,cash flow analysis
+633,46,m,kenyan,running cost,financial auditing
+634,58,f,tanzanian,learning environment,blended learning
+635,45,m,tanzanian,access resource,digitization
+636,28,m,kenyan,educational program curriculum,program curriculum review update
+637,38,f,tanzanian,technology infrastructure,technology integration
+638,37,f,tanzanian,technology infrastructure,technology integration
+639,46,f,tanzanian,organizational culture change management,inclusive organizational culture
+640,37,f,tanzanian,social connection community engagement,community engagement initiative
+641,31,m,kenyan,facility safety,safety measure
+642,26,f,tanzanian,cyber crime,security measure
+643,27,f,tanzanian,physical health safety,comprehensive health safety measure
+644,49,m,tanzanian,mission vision value,missiondriven policy alignment
+645,50,m,tanzanian,governance structure,transparent governance framework
+646,43,m,kenyan,debt,cash flow analysis
+647,42,m,tanzanian,research experiment,research experiment standardization
+648,54,f,kenyan,facility safety,safety measure
+649,46,m,kenyan,educational program curriculum,program curriculum review update
+650,39,f,tanzanian,student enrollment,enrollment initiative
+651,52,m,tanzanian,learning environment,blended learning
+652,45,m,tanzanian,educational program curriculum,program curriculum review update
+653,26,m,kenyan,employee development training,professional development plan
+654,55,m,tanzanian,facility safety,safety measure
+655,59,m,tanzanian,legal regulatory compliance,compliance management framework
+656,57,f,tanzanian,debt,cash flow analysis
+657,46,f,kenyan,technology infrastructure,technology integration
+658,28,m,kenyan,budget allocation,budget optimization
+659,38,f,tanzanian,social connection community engagement,community engagement initiative
+660,58,m,tanzanian,debt,cash flow analysis
+661,43,f,tanzanian,student enrollment,enrollment initiative
+662,38,f,tanzanian,legal regulatory compliance,compliance management framework
+663,50,m,tanzanian,physical health safety,comprehensive health safety measure
+664,51,m,kenyan,organizational culture change management,inclusive organizational culture
+665,37,f,tanzanian,research experiment,research experiment standardization
+666,51,m,tanzanian,administrative function,workflow analysis
+667,26,m,kenyan,student accommodation,accommodation optimization
+668,39,m,kenyan,quality assurance,continuous improvement assessment
+669,43,f,tanzanian,debt,cash flow analysis
+670,32,f,tanzanian,organizational culture change management,inclusive organizational culture
+671,48,m,tanzanian,legal regulatory compliance,compliance management framework
+672,54,m,kenyan,educational program curriculum,program curriculum review update
+673,53,f,tanzanian,technology infrastructure,technology integration
+674,49,m,tanzanian,budget allocation,budget optimization
+675,30,m,tanzanian,employee development training,professional development plan
+676,38,m,kenyan,organizational culture change management,inclusive organizational culture
+677,48,m,tanzanian,learning environment,blended learning
+678,51,f,tanzanian,cyber crime,security measure
+679,58,f,kenyan,debt,cash flow analysis
+680,48,f,kenyan,quality assurance,continuous improvement assessment
+681,26,m,tanzanian,facility safety,safety measure
+682,43,m,tanzanian,legal regulatory compliance,compliance management framework
+683,58,f,tanzanian,legal regulatory compliance,compliance management framework
+684,26,m,kenyan,debt,cash flow analysis
+685,56,m,kenyan,debt,cash flow analysis
+686,54,m,tanzanian,mental health emotional wellbeing,mental health support service
+687,37,m,tanzanian,legal regulatory compliance,compliance management framework
+688,40,m,kenyan,educational program curriculum,program curriculum review update
+689,44,m,tanzanian,organizational culture change management,inclusive organizational culture
+690,25,f,kenyan,organizational culture change management,inclusive organizational culture
+691,40,f,tanzanian,research experiment,research experiment standardization
+692,33,f,tanzanian,mental health emotional wellbeing,mental health support service
+693,35,f,tanzanian,facility safety,safety measure
+694,25,m,tanzanian,workforce planning analysis,workforce planning
+695,44,m,kenyan,social connection community engagement,community engagement initiative
+696,46,f,kenyan,debt,cash flow analysis
+697,24,m,tanzanian,physical health safety,comprehensive health safety measure
+698,43,m,tanzanian,physical health safety,comprehensive health safety measure
+699,53,f,kenyan,employee development training,professional development plan
+700,44,m,tanzanian,technology infrastructure,technology integration
+701,41,f,tanzanian,employee development training,professional development plan
+702,30,m,tanzanian,tuition fee setting,financial planning
+703,24,f,tanzanian,access resource,digitization
+704,24,f,kenyan,cyber crime,security measure
+705,42,f,kenyan,recruitment,strategic recruitment
+706,25,f,tanzanian,student enrollment,enrollment initiative
+707,34,f,kenyan,physical health safety,comprehensive health safety measure
+708,26,f,kenyan,mental health emotional wellbeing,mental health support service
+709,57,m,kenyan,employee development training,professional development plan
+710,39,f,tanzanian,social connection community engagement,community engagement initiative
+711,48,f,kenyan,administrative function,workflow analysis
+712,30,m,kenyan,learning environment,blended learning
+713,42,f,tanzanian,running cost,financial auditing
+714,34,m,kenyan,facility safety,safety measure
+715,37,f,kenyan,employee development training,professional development plan
+716,52,f,kenyan,budget allocation,budget optimization
+717,24,f,kenyan,access resource,digitization
+718,38,f,tanzanian,facility safety,safety measure
+719,45,m,tanzanian,mental health emotional wellbeing,mental health support service
+720,41,f,tanzanian,learning environment,blended learning
+721,38,f,kenyan,recruitment,strategic recruitment
+722,59,f,tanzanian,employee development training,professional development plan
+723,44,m,tanzanian,educational program curriculum,program curriculum review update
+724,44,m,kenyan,research experiment,research experiment standardization
+725,37,m,tanzanian,research experiment,research experiment standardization
+726,53,f,kenyan,mission vision value,missiondriven policy alignment
+727,29,f,tanzanian,organizational culture change management,inclusive organizational culture
+728,58,f,tanzanian,debt,cash flow analysis
+729,45,m,kenyan,recruitment,strategic recruitment
+730,43,f,tanzanian,student enrollment,enrollment initiative
+731,43,f,tanzanian,debt,cash flow analysis
+732,52,m,tanzanian,running cost,financial auditing
+733,34,f,kenyan,governance structure,transparent governance framework
+734,33,m,kenyan,recruitment,strategic recruitment
+735,45,m,kenyan,administrative function,workflow analysis
+736,41,m,kenyan,legal regulatory compliance,compliance management framework
+737,47,f,tanzanian,budget allocation,budget optimization
+738,45,m,tanzanian,quality assurance,continuous improvement assessment
+739,47,m,tanzanian,technology infrastructure,technology integration
+740,43,m,kenyan,research experiment,research experiment standardization
+741,58,m,tanzanian,recruitment,strategic recruitment
+742,29,f,tanzanian,physical health safety,comprehensive health safety measure
+743,35,m,kenyan,mental health emotional wellbeing,mental health support service
+744,39,m,kenyan,physical health safety,comprehensive health safety measure
+745,56,f,kenyan,mental health emotional wellbeing,mental health support service
+746,26,f,tanzanian,tuition fee setting,financial planning
+747,53,f,kenyan,debt,cash flow analysis
+748,59,f,tanzanian,governance structure,transparent governance framework
+749,36,m,tanzanian,governance structure,transparent governance framework
+750,36,m,kenyan,employee development training,professional development plan
+751,37,m,kenyan,quality assurance,continuous improvement assessment
+752,43,m,kenyan,facility safety,safety measure
+753,48,m,tanzanian,technology infrastructure,technology integration
+754,40,f,kenyan,educational program curriculum,program curriculum review update
+755,34,f,tanzanian,facility safety,safety measure
+756,28,f,tanzanian,employee development training,professional development plan
+757,37,m,tanzanian,legal regulatory compliance,compliance management framework
+758,26,m,tanzanian,access resource,digitization
+759,48,m,kenyan,budget allocation,budget optimization
+760,55,m,tanzanian,governance structure,transparent governance framework
+761,57,f,kenyan,student accommodation,accommodation optimization
+762,45,m,kenyan,quality assurance,continuous improvement assessment
+763,48,m,tanzanian,organizational culture change management,inclusive organizational culture
+764,48,f,tanzanian,recruitment,strategic recruitment
+765,34,f,kenyan,legal regulatory compliance,compliance management framework
+766,33,f,kenyan,mental health emotional wellbeing,mental health support service
+767,59,m,kenyan,debt,cash flow analysis
+768,55,m,kenyan,tuition fee setting,financial planning
+769,54,f,tanzanian,student enrollment,enrollment initiative
+770,25,m,kenyan,administrative function,workflow analysis
+771,44,f,tanzanian,tuition fee setting,financial planning
+772,41,m,kenyan,technology infrastructure,technology integration
+773,32,m,kenyan,governance structure,transparent governance framework
+774,54,f,tanzanian,workforce planning analysis,workforce planning
+775,54,f,kenyan,access resource,digitization
+776,52,f,tanzanian,facility safety,safety measure
+777,35,m,tanzanian,budget allocation,budget optimization
+778,48,m,kenyan,student enrollment,enrollment initiative
+779,59,m,tanzanian,technology infrastructure,technology integration
+780,24,m,tanzanian,student accommodation,accommodation optimization
+781,36,f,tanzanian,learning environment,blended learning
+782,29,f,tanzanian,administrative function,workflow analysis
+783,30,m,tanzanian,technology infrastructure,technology integration
+784,54,m,tanzanian,social connection community engagement,community engagement initiative
+785,52,f,tanzanian,social connection community engagement,community engagement initiative
+786,43,f,kenyan,social connection community engagement,community engagement initiative
+787,39,m,tanzanian,tuition fee setting,financial planning
+788,31,f,tanzanian,debt,cash flow analysis
+789,41,m,tanzanian,budget allocation,budget optimization
+790,40,f,kenyan,recruitment,strategic recruitment
+791,35,m,tanzanian,running cost,financial auditing
+792,29,m,tanzanian,learning environment,blended learning
+793,30,f,tanzanian,cyber crime,security measure
+794,41,f,kenyan,budget allocation,budget optimization
+795,32,m,kenyan,organizational culture change management,inclusive organizational culture
+796,54,f,kenyan,tuition fee setting,financial planning
+797,53,f,kenyan,learning environment,blended learning
+798,46,f,tanzanian,student accommodation,accommodation optimization
+799,34,f,tanzanian,mental health emotional wellbeing,mental health support service
+800,48,m,kenyan,mission vision value,missiondriven policy alignment
+801,57,f,kenyan,technology infrastructure,technology integration
+802,37,f,kenyan,workforce planning analysis,workforce planning
+803,41,f,tanzanian,research experiment,research experiment standardization
+804,50,m,tanzanian,mission vision value,missiondriven policy alignment
+805,44,m,kenyan,legal regulatory compliance,compliance management framework
+806,35,m,kenyan,facility safety,safety measure
+807,54,m,kenyan,physical health safety,comprehensive health safety measure
+808,55,m,tanzanian,research experiment,research experiment standardization
+809,50,m,kenyan,cyber crime,security measure
+810,50,f,tanzanian,legal regulatory compliance,compliance management framework
+811,26,f,kenyan,governance structure,transparent governance framework
+812,34,m,tanzanian,facility safety,safety measure
+813,51,m,tanzanian,running cost,financial auditing
+814,33,f,kenyan,organizational culture change management,inclusive organizational culture
+815,26,f,kenyan,technology infrastructure,technology integration
+816,39,m,tanzanian,student accommodation,accommodation optimization
+817,54,m,kenyan,administrative function,workflow analysis
+818,39,m,tanzanian,budget allocation,budget optimization
+819,50,m,kenyan,student enrollment,enrollment initiative
+820,37,m,tanzanian,organizational culture change management,inclusive organizational culture
+821,27,m,tanzanian,student enrollment,enrollment initiative
+822,41,f,tanzanian,running cost,financial auditing
+823,52,f,tanzanian,learning environment,blended learning
+824,58,m,tanzanian,cyber crime,security measure
+825,36,m,tanzanian,student enrollment,enrollment initiative
+826,36,f,tanzanian,mental health emotional wellbeing,mental health support service
+827,36,m,kenyan,mission vision value,missiondriven policy alignment
+828,28,m,tanzanian,student accommodation,accommodation optimization
+829,30,m,kenyan,employee development training,professional development plan
+830,38,m,tanzanian,running cost,financial auditing
+831,43,m,kenyan,access resource,digitization
+832,56,m,kenyan,workforce planning analysis,workforce planning
+833,48,m,tanzanian,access resource,digitization
+834,39,m,tanzanian,administrative function,workflow analysis
+835,35,f,kenyan,learning environment,blended learning
+836,32,m,tanzanian,mental health emotional wellbeing,mental health support service
+837,49,f,tanzanian,social connection community engagement,community engagement initiative
+838,34,m,kenyan,learning environment,blended learning
+839,54,f,kenyan,tuition fee setting,financial planning
+840,54,f,kenyan,governance structure,transparent governance framework
+841,40,m,kenyan,employee development training,professional development plan
+842,31,f,tanzanian,tuition fee setting,financial planning
+843,41,f,tanzanian,debt,cash flow analysis
+844,34,f,tanzanian,physical health safety,comprehensive health safety measure
+845,44,m,tanzanian,student accommodation,accommodation optimization
+846,52,f,tanzanian,recruitment,strategic recruitment
+847,58,m,kenyan,cyber crime,security measure
+848,48,m,tanzanian,employee development training,professional development plan
+849,46,f,tanzanian,organizational culture change management,inclusive organizational culture
+850,57,f,tanzanian,social connection community engagement,community engagement initiative
+851,36,f,kenyan,mission vision value,missiondriven policy alignment
+852,52,m,tanzanian,student enrollment,enrollment initiative
+853,26,f,tanzanian,employee development training,professional development plan
+854,41,f,tanzanian,mental health emotional wellbeing,mental health support service
+855,30,m,tanzanian,debt,cash flow analysis
+856,52,f,tanzanian,organizational culture change management,inclusive organizational culture
+857,57,m,kenyan,legal regulatory compliance,compliance management framework
+858,34,f,tanzanian,governance structure,transparent governance framework
+859,34,f,kenyan,debt,cash flow analysis
+860,34,m,tanzanian,technology infrastructure,technology integration
+861,43,f,tanzanian,workforce planning analysis,workforce planning
+862,33,f,kenyan,access resource,digitization
+863,37,m,kenyan,student enrollment,enrollment initiative
+864,44,m,tanzanian,mission vision value,missiondriven policy alignment
+865,35,f,tanzanian,recruitment,strategic recruitment
+866,48,f,tanzanian,debt,cash flow analysis
+867,37,m,tanzanian,legal regulatory compliance,compliance management framework
+868,57,m,kenyan,educational program curriculum,program curriculum review update
+869,41,m,tanzanian,organizational culture change management,inclusive organizational culture
+870,49,f,tanzanian,debt,cash flow analysis
+871,30,m,tanzanian,physical health safety,comprehensive health safety measure
+872,35,f,tanzanian,governance structure,transparent governance framework
+873,46,f,tanzanian,budget allocation,budget optimization
+874,24,f,tanzanian,educational program curriculum,program curriculum review update
+875,41,f,tanzanian,employee development training,professional development plan
+876,54,f,tanzanian,governance structure,transparent governance framework
+877,49,m,kenyan,debt,cash flow analysis
+878,35,m,tanzanian,mental health emotional wellbeing,mental health support service
+879,36,f,kenyan,employee development training,professional development plan
+880,51,m,tanzanian,running cost,financial auditing
+881,49,m,tanzanian,research experiment,research experiment standardization
+882,38,f,tanzanian,student enrollment,enrollment initiative
+883,39,m,kenyan,budget allocation,budget optimization
+884,42,m,tanzanian,administrative function,workflow analysis
+885,46,f,tanzanian,technology infrastructure,technology integration
+886,39,f,tanzanian,mental health emotional wellbeing,mental health support service
+887,58,f,tanzanian,technology infrastructure,technology integration
+888,44,f,tanzanian,employee development training,professional development plan
+889,41,m,kenyan,educational program curriculum,program curriculum review update
+890,31,m,tanzanian,legal regulatory compliance,compliance management framework
+891,47,f,kenyan,debt,cash flow analysis
+892,56,m,kenyan,recruitment,strategic recruitment
+893,48,f,kenyan,student accommodation,accommodation optimization
+894,44,f,tanzanian,cyber crime,security measure
+895,57,m,tanzanian,mission vision value,missiondriven policy alignment
+896,29,m,kenyan,organizational culture change management,inclusive organizational culture
+897,25,m,tanzanian,debt,cash flow analysis
+898,31,f,tanzanian,educational program curriculum,program curriculum review update
+899,49,f,kenyan,budget allocation,budget optimization
+900,53,m,kenyan,quality assurance,continuous improvement assessment
+901,34,m,kenyan,research experiment,research experiment standardization
+902,50,f,kenyan,running cost,financial auditing
+903,34,m,tanzanian,running cost,financial auditing
+904,33,f,tanzanian,governance structure,transparent governance framework
+905,56,f,tanzanian,budget allocation,budget optimization
+906,36,f,tanzanian,technology infrastructure,technology integration
+907,43,f,tanzanian,budget allocation,budget optimization
+908,50,m,tanzanian,organizational culture change management,inclusive organizational culture
+909,31,m,kenyan,student accommodation,accommodation optimization
+910,29,f,kenyan,quality assurance,continuous improvement assessment
+911,29,m,kenyan,educational program curriculum,program curriculum review update
+912,25,m,kenyan,budget allocation,budget optimization
+913,55,f,kenyan,research experiment,research experiment standardization
+914,33,m,tanzanian,recruitment,strategic recruitment
+915,52,m,tanzanian,student enrollment,enrollment initiative
+916,34,f,kenyan,organizational culture change management,inclusive organizational culture
+917,53,f,kenyan,physical health safety,comprehensive health safety measure
+918,44,m,kenyan,quality assurance,continuous improvement assessment
+919,28,f,kenyan,budget allocation,budget optimization
+920,24,m,tanzanian,recruitment,strategic recruitment
+921,44,f,kenyan,research experiment,research experiment standardization
+922,58,m,kenyan,tuition fee setting,financial planning
+923,59,m,tanzanian,legal regulatory compliance,compliance management framework
+924,28,f,tanzanian,student enrollment,enrollment initiative
+925,59,f,tanzanian,debt,cash flow analysis
+926,42,m,kenyan,physical health safety,comprehensive health safety measure
+927,40,f,kenyan,learning environment,blended learning
+928,55,f,kenyan,learning environment,blended learning
+929,30,m,kenyan,employee development training,professional development plan
+930,30,m,tanzanian,learning environment,blended learning
+931,39,f,tanzanian,quality assurance,continuous improvement assessment
+932,38,f,kenyan,learning environment,blended learning
+933,52,f,kenyan,employee development training,professional development plan
+934,34,m,tanzanian,quality assurance,continuous improvement assessment
+935,37,f,tanzanian,employee development training,professional development plan
+936,48,f,tanzanian,workforce planning analysis,workforce planning
+937,33,f,kenyan,running cost,financial auditing
+938,29,m,tanzanian,learning environment,blended learning
+939,55,f,tanzanian,student enrollment,enrollment initiative
+940,59,f,kenyan,debt,cash flow analysis
+941,25,f,kenyan,workforce planning analysis,workforce planning
+942,26,f,tanzanian,technology infrastructure,technology integration
+943,57,f,tanzanian,physical health safety,comprehensive health safety measure
+944,33,m,tanzanian,debt,cash flow analysis
+945,27,m,tanzanian,tuition fee setting,financial planning
+946,58,f,kenyan,tuition fee setting,financial planning
+947,53,f,tanzanian,recruitment,strategic recruitment
+948,55,m,tanzanian,physical health safety,comprehensive health safety measure
+949,35,f,kenyan,mission vision value,missiondriven policy alignment
+950,38,m,tanzanian,cyber crime,security measure
+951,37,f,kenyan,workforce planning analysis,workforce planning
+952,59,f,kenyan,technology infrastructure,technology integration
+953,51,f,kenyan,facility safety,safety measure
+954,57,f,tanzanian,social connection community engagement,community engagement initiative
+955,35,m,kenyan,governance structure,transparent governance framework
+956,54,m,tanzanian,cyber crime,security measure
+957,25,m,tanzanian,administrative function,workflow analysis
+958,31,f,tanzanian,legal regulatory compliance,compliance management framework
+959,29,f,tanzanian,recruitment,strategic recruitment
+960,47,m,tanzanian,recruitment,strategic recruitment
+961,53,f,tanzanian,debt,cash flow analysis
+962,40,f,tanzanian,social connection community engagement,community engagement initiative
+963,58,m,tanzanian,tuition fee setting,financial planning
+964,34,m,kenyan,access resource,digitization
+965,53,f,tanzanian,student enrollment,enrollment initiative
+966,53,f,kenyan,educational program curriculum,program curriculum review update
+967,59,f,kenyan,learning environment,blended learning
+968,28,m,tanzanian,employee development training,professional development plan
+969,46,m,tanzanian,student accommodation,accommodation optimization
+970,31,m,tanzanian,employee development training,professional development plan
+971,30,m,tanzanian,learning environment,blended learning
+972,45,m,kenyan,budget allocation,budget optimization
+973,55,m,kenyan,student enrollment,enrollment initiative
+974,36,m,kenyan,educational program curriculum,program curriculum review update
+975,59,m,tanzanian,recruitment,strategic recruitment
+976,25,f,kenyan,learning environment,blended learning
+977,27,m,tanzanian,student enrollment,enrollment initiative
+978,52,m,tanzanian,workforce planning analysis,workforce planning
+979,59,f,tanzanian,technology infrastructure,technology integration
+980,36,m,kenyan,governance structure,transparent governance framework
+981,53,f,tanzanian,budget allocation,budget optimization
+982,58,m,tanzanian,learning environment,blended learning
+983,29,f,kenyan,facility safety,safety measure
+984,50,m,kenyan,technology infrastructure,technology integration
+985,32,f,kenyan,budget allocation,budget optimization
+986,53,f,tanzanian,quality assurance,continuous improvement assessment
+987,42,f,tanzanian,facility safety,safety measure
+988,33,m,kenyan,research experiment,research experiment standardization
+989,47,f,kenyan,research experiment,research experiment standardization
+990,45,m,tanzanian,governance structure,transparent governance framework
+991,42,m,kenyan,student enrollment,enrollment initiative
+992,33,m,kenyan,recruitment,strategic recruitment
+993,30,m,tanzanian,student enrollment,enrollment initiative
+994,44,m,tanzanian,access resource,digitization
+995,55,m,kenyan,recruitment,strategic recruitment
+996,33,f,kenyan,workforce planning analysis,workforce planning
+997,53,f,kenyan,legal regulatory compliance,compliance management framework
+998,43,m,tanzanian,employee development training,professional development plan
+999,34,f,tanzanian,technology infrastructure,technology integration
+1000,40,m,tanzanian,running cost,financial auditing
+1001,59,f,tanzanian,tuition fee setting,financial planning
+1002,33,f,kenyan,employee development training,professional development plan
+1003,54,m,kenyan,learning environment,blended learning
+1004,35,f,kenyan,employee development training,professional development plan
+1005,30,m,tanzanian,debt,cash flow analysis
+1006,29,f,kenyan,administrative function,workflow analysis
+1007,41,f,tanzanian,debt,cash flow analysis
+1008,25,m,tanzanian,facility safety,safety measure
+1009,39,m,tanzanian,technology infrastructure,technology integration
+1010,52,m,kenyan,mission vision value,missiondriven policy alignment
+1011,37,m,kenyan,physical health safety,comprehensive health safety measure
+1012,43,f,tanzanian,mental health emotional wellbeing,mental health support service
+1013,28,f,kenyan,physical health safety,comprehensive health safety measure
+1014,50,m,tanzanian,running cost,financial auditing
+1015,59,m,tanzanian,tuition fee setting,financial planning
+1016,35,m,tanzanian,research experiment,research experiment standardization
+1017,33,m,tanzanian,governance structure,transparent governance framework
+1018,56,f,kenyan,running cost,financial auditing
+1019,35,f,tanzanian,student accommodation,accommodation optimization
+1020,36,m,kenyan,student accommodation,accommodation optimization
+1021,50,m,tanzanian,educational program curriculum,program curriculum review update
+1022,48,m,kenyan,budget allocation,budget optimization
+1023,56,f,kenyan,organizational culture change management,inclusive organizational culture
+1024,43,f,kenyan,running cost,financial auditing
+1025,54,f,tanzanian,student enrollment,enrollment initiative
+1026,24,m,tanzanian,tuition fee setting,financial planning
+1027,37,f,tanzanian,technology infrastructure,technology integration
+1028,35,m,tanzanian,physical health safety,comprehensive health safety measure
+1029,31,f,tanzanian,physical health safety,comprehensive health safety measure
+1030,44,f,kenyan,employee development training,professional development plan
+1031,46,f,tanzanian,debt,cash flow analysis
+1032,57,f,kenyan,mission vision value,missiondriven policy alignment
+1033,33,f,tanzanian,organizational culture change management,inclusive organizational culture
+1034,40,m,tanzanian,administrative function,workflow analysis
+1035,46,f,tanzanian,recruitment,strategic recruitment
+1036,47,m,tanzanian,workforce planning analysis,workforce planning
+1037,33,m,tanzanian,cyber crime,security measure
+1038,33,m,kenyan,budget allocation,budget optimization
+1039,29,m,tanzanian,research experiment,research experiment standardization
+1040,30,m,tanzanian,cyber crime,security measure
+1041,34,f,kenyan,running cost,financial auditing
+1042,25,m,tanzanian,legal regulatory compliance,compliance management framework
+1043,28,m,kenyan,mental health emotional wellbeing,mental health support service
+1044,25,m,kenyan,workforce planning analysis,workforce planning
+1045,35,m,tanzanian,organizational culture change management,inclusive organizational culture
+1046,42,f,tanzanian,employee development training,professional development plan
+1047,52,f,tanzanian,research experiment,research experiment standardization
+1048,40,f,tanzanian,learning environment,blended learning
+1049,54,f,tanzanian,administrative function,workflow analysis
+1050,28,f,kenyan,mental health emotional wellbeing,mental health support service
+1051,56,m,tanzanian,learning environment,blended learning
+1052,47,m,kenyan,administrative function,workflow analysis
+1053,53,m,kenyan,organizational culture change management,inclusive organizational culture
+1054,55,f,tanzanian,organizational culture change management,inclusive organizational culture
+1055,40,m,tanzanian,quality assurance,continuous improvement assessment
+1056,42,m,kenyan,employee development training,professional development plan
+1057,41,m,kenyan,workforce planning analysis,workforce planning
+1058,55,f,tanzanian,social connection community engagement,community engagement initiative
+1059,29,f,tanzanian,debt,cash flow analysis
+1060,47,f,tanzanian,employee development training,professional development plan
+1061,46,m,tanzanian,physical health safety,comprehensive health safety measure
+1062,37,f,kenyan,student accommodation,accommodation optimization
+1063,49,m,kenyan,debt,cash flow analysis
+1064,42,f,kenyan,debt,cash flow analysis
+1065,51,m,kenyan,student enrollment,enrollment initiative
+1066,51,f,tanzanian,student enrollment,enrollment initiative
+1067,44,f,tanzanian,access resource,digitization
+1068,26,m,tanzanian,quality assurance,continuous improvement assessment
+1069,57,m,tanzanian,social connection community engagement,community engagement initiative
+1070,42,f,tanzanian,student accommodation,accommodation optimization
+1071,42,f,kenyan,tuition fee setting,financial planning
+1072,24,f,kenyan,student accommodation,accommodation optimization
+1073,41,m,tanzanian,student accommodation,accommodation optimization
+1074,45,f,kenyan,facility safety,safety measure
+1075,40,m,kenyan,educational program curriculum,program curriculum review update
+1076,30,f,kenyan,tuition fee setting,financial planning
+1077,54,f,kenyan,social connection community engagement,community engagement initiative
+1078,28,f,kenyan,access resource,digitization
+1079,31,m,tanzanian,governance structure,transparent governance framework
+1080,49,f,kenyan,legal regulatory compliance,compliance management framework
+1081,36,f,kenyan,legal regulatory compliance,compliance management framework
+1082,26,f,tanzanian,employee development training,professional development plan
+1083,46,m,tanzanian,budget allocation,budget optimization
+1084,29,f,kenyan,administrative function,workflow analysis
+1085,52,f,kenyan,access resource,digitization
+1086,56,m,kenyan,mental health emotional wellbeing,mental health support service
+1087,54,f,tanzanian,organizational culture change management,inclusive organizational culture
+1088,46,f,kenyan,student enrollment,enrollment initiative
+1089,37,f,tanzanian,learning environment,blended learning
+1090,33,f,kenyan,mission vision value,missiondriven policy alignment
+1091,31,f,tanzanian,debt,cash flow analysis
+1092,52,m,tanzanian,technology infrastructure,technology integration
+1093,28,f,kenyan,organizational culture change management,inclusive organizational culture
+1094,53,m,tanzanian,mission vision value,missiondriven policy alignment
+1095,43,f,kenyan,administrative function,workflow analysis
+1096,59,f,tanzanian,social connection community engagement,community engagement initiative
+1097,47,m,tanzanian,legal regulatory compliance,compliance management framework
+1098,40,f,tanzanian,budget allocation,budget optimization
+1099,38,f,kenyan,employee development training,professional development plan
+1100,30,f,kenyan,access resource,digitization
+1101,27,m,kenyan,debt,cash flow analysis
+1102,43,m,tanzanian,recruitment,strategic recruitment
+1103,56,m,kenyan,quality assurance,continuous improvement assessment
+1104,40,m,tanzanian,social connection community engagement,community engagement initiative
+1105,41,f,tanzanian,recruitment,strategic recruitment
+1106,47,m,kenyan,mission vision value,missiondriven policy alignment
+1107,31,m,tanzanian,social connection community engagement,community engagement initiative
+1108,38,m,kenyan,access resource,digitization
+1109,26,f,tanzanian,physical health safety,comprehensive health safety measure
+1110,57,f,tanzanian,technology infrastructure,technology integration
+1111,30,f,tanzanian,facility safety,safety measure
+1112,38,m,tanzanian,access resource,digitization
+1113,41,f,tanzanian,mission vision value,missiondriven policy alignment
+1114,50,m,tanzanian,access resource,digitization
+1115,33,f,tanzanian,budget allocation,budget optimization
+1116,32,f,tanzanian,organizational culture change management,inclusive organizational culture
+1117,51,f,tanzanian,mission vision value,missiondriven policy alignment
+1118,47,m,tanzanian,recruitment,strategic recruitment
+1119,27,f,tanzanian,access resource,digitization
+1120,56,f,tanzanian,employee development training,professional development plan
+1121,42,m,tanzanian,cyber crime,security measure
+1122,31,f,kenyan,social connection community engagement,community engagement initiative
+1123,34,m,kenyan,technology infrastructure,technology integration
+1124,40,f,tanzanian,cyber crime,security measure
+1125,57,m,tanzanian,tuition fee setting,financial planning
+1126,53,f,tanzanian,physical health safety,comprehensive health safety measure
+1127,51,f,tanzanian,access resource,digitization
+1128,37,f,kenyan,administrative function,workflow analysis
+1129,34,f,tanzanian,organizational culture change management,inclusive organizational culture
+1130,25,f,kenyan,physical health safety,comprehensive health safety measure
+1131,35,m,kenyan,tuition fee setting,financial planning
+1132,57,m,kenyan,research experiment,research experiment standardization
+1133,48,f,kenyan,debt,cash flow analysis
+1134,38,f,tanzanian,educational program curriculum,program curriculum review update
+1135,59,f,tanzanian,research experiment,research experiment standardization
+1136,45,m,kenyan,budget allocation,budget optimization
+1137,46,m,tanzanian,physical health safety,comprehensive health safety measure
+1138,37,f,tanzanian,physical health safety,comprehensive health safety measure
+1139,50,m,tanzanian,learning environment,blended learning
+1140,45,f,kenyan,facility safety,safety measure
+1141,48,m,tanzanian,administrative function,workflow analysis
+1142,25,m,tanzanian,budget allocation,budget optimization
+1143,59,f,tanzanian,educational program curriculum,program curriculum review update
+1144,26,m,tanzanian,workforce planning analysis,workforce planning
+1145,24,f,kenyan,organizational culture change management,inclusive organizational culture
+1146,26,m,tanzanian,student accommodation,accommodation optimization
+1147,24,f,tanzanian,legal regulatory compliance,compliance management framework
+1148,38,m,kenyan,learning environment,blended learning
+1149,58,f,kenyan,employee development training,professional development plan
+1150,41,f,kenyan,mission vision value,missiondriven policy alignment
+1151,39,f,tanzanian,tuition fee setting,financial planning
+1152,42,m,kenyan,research experiment,research experiment standardization
+1153,56,m,tanzanian,recruitment,strategic recruitment
+1154,35,f,tanzanian,running cost,financial auditing
+1155,45,m,kenyan,physical health safety,comprehensive health safety measure
+1156,37,m,kenyan,social connection community engagement,community engagement initiative
+1157,54,f,kenyan,administrative function,workflow analysis
+1158,38,m,tanzanian,access resource,digitization
+1159,42,m,tanzanian,tuition fee setting,financial planning
+1160,49,f,tanzanian,budget allocation,budget optimization
+1161,56,f,kenyan,student accommodation,accommodation optimization
+1162,37,f,tanzanian,organizational culture change management,inclusive organizational culture
+1163,50,f,kenyan,facility safety,safety measure
+1164,34,f,tanzanian,educational program curriculum,program curriculum review update
+1165,44,m,tanzanian,recruitment,strategic recruitment
+1166,54,m,kenyan,legal regulatory compliance,compliance management framework
+1167,40,m,tanzanian,educational program curriculum,program curriculum review update
+1168,28,m,kenyan,technology infrastructure,technology integration
+1169,43,m,tanzanian,technology infrastructure,technology integration
+1170,34,f,tanzanian,administrative function,workflow analysis
+1171,31,m,kenyan,quality assurance,continuous improvement assessment
+1172,27,f,tanzanian,administrative function,workflow analysis
+1173,42,f,tanzanian,physical health safety,comprehensive health safety measure
+1174,43,f,kenyan,access resource,digitization
+1175,38,f,kenyan,learning environment,blended learning
+1176,43,f,tanzanian,student accommodation,accommodation optimization
+1177,32,f,tanzanian,quality assurance,continuous improvement assessment
+1178,59,f,tanzanian,access resource,digitization
+1179,52,m,tanzanian,access resource,digitization
+1180,44,f,tanzanian,debt,cash flow analysis
+1181,42,m,tanzanian,mission vision value,missiondriven policy alignment
+1182,58,f,tanzanian,employee development training,professional development plan
+1183,46,f,tanzanian,mission vision value,missiondriven policy alignment
+1184,35,m,tanzanian,access resource,digitization
