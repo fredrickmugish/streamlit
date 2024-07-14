@@ -24,7 +24,6 @@ condition_to_index = {condition: index for index, condition in enumerate(conditi
 
 # Function to predict strategy
 # Add CORS headers to allow requests from any origin
-st.set_option('server.enableCORS', True)
 def predict_strategy(text):
     text_tfidf = tfidf_vectorizer.transform([text])
     prediction = model.predict(text_tfidf)
