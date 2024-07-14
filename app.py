@@ -56,7 +56,7 @@ checkboxes_content = {
     "Students Accommodation": False,
     "Recruitment": False,
     "Administrative Functions": False,
-    "Mental Health and Emotional Well-being": False,
+    #"Mental Health and Emotional Well-being": False,
 }
 
 # Split the checkboxes into three columns
