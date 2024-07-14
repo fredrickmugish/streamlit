@@ -122,7 +122,7 @@ if st.button('Ask Here', type="primary"):
 
             strategy_key = prediction.lower().replace(" ", "_")
             if strategy_key in strategy_page_map:
-                strategy_url = f"http://localhost:8000/strategies/{strategy_page_map[strategy_key]}"
+                strategy_url = f"https://inteldss-system.onrender.com/strategies/{strategy_page_map[strategy_key]}"
                 st.markdown(f"[Click here to view the recommendations for {aspect}]({strategy_url}) ")
             else:
                 st.markdown(f"No direct link available for the strategy: {prediction}")
